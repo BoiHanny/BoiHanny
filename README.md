@@ -1,6 +1,4 @@
 ### Welcome to my GitHub profile, I'm Hanny 👋
-
-
 I'm a coding wizard who loves to turn my wildest ideas into helpful tools. I specialize in C# WinForm/WPF and I have 4 years of self-taught coding experience.
 <br><br>
 
