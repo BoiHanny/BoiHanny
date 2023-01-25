@@ -8,6 +8,3 @@ I'm a coding wizard who loves to turn my wildest ideas into helpful tools. I spe
 <br><br>💡 Take a look and you may just learn a thing or two from my code. Who knows, it might even surprise you!<br>
 
 ⚡In addition to my coding skills (nope), I also have experience in 3D modeling using Blender, and have a good understanding of Unity regarding avatars for VRChat.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoiHanny)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoiHanny)
-
