@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/114599052/214605234-24aa8985-2b2d-404b-b640-193570f1d876.png)
+
 ### Welcome to my GitHub profile, I'm Hanny 👋
 I'm a coding wizard who loves to turn my wildest ideas into helpful tools. I specialize in C# WinForm/WPF and I have 4 years of self-taught coding experience.
 <br><br>
