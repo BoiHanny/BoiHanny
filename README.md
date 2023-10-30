@@ -9,4 +9,6 @@ I'm a coding wizard who loves to turn my wildest ideas into helpful tools. I spe
 
 ⚡In addition to my coding skills (nope), I also have experience in 3D modeling using Blender, and have a good understanding of Unity regarding avatars for VRChat.
 
+[![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoiHanny&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://dcbadge.vercel.app/api/server/ZaSFwBfhvG)](https://discord.gg/ZaSFwBfhvG)
