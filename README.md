@@ -6,10 +6,9 @@ I’m a passionate software developer with **7 years of experience** officially 
 
 ## ⚡ My Tech Stack & Skills:
 
-- **Languages**: C#, C++, Python, Powershell
+- **Languages**: C#, C++, Python, Powershell, HTML/XAML and some other smaller languages.
 - **Frameworks**: .NET (MAUI, WPF, Blazor)
 - **Platforms**: Azure, Unity, VRChat, Windows, Linux
-- **Tools**: DevExpress, Azure DevOps, Azure Functions, Azure SQL, Hyper-V, 3CX
 - **Domains**: Machine Learning, Data Analysis, Project Management, IT Administration, DevOps
 
 I also dabble with **AI** and **custom models** during both work and free time, leveraging tools like **Azure Machine Learning** and **Unity** to bring advanced features into projects.
@@ -18,9 +17,6 @@ I also dabble with **AI** and **custom models** during both work and free time, 
 
 ### [VRChat MagicChatbox](https://github.com/BoiHanny/vrcosc-magicchatbox)
 A powerful, dynamic chatbox tool for **VRChat**, blending **AI** and **3D interfaces** to elevate the virtual communication experience. This project started small but has grown into something much larger—showcasing my love for innovation in both **VR** and **AI** spaces.
-
-### Web & Cloud Solutions
-From cross-platform apps using **.NET MAUI** to backend systems with **Azure Functions** and **DevOps pipelines**, I’ve built a variety of tools and solutions that solve real-world problems efficiently.
 
 ## 🔧 Technologies I Love Working With:
 
@@ -43,7 +39,7 @@ From cross-platform apps using **.NET MAUI** to backend systems with **Azure Fun
 - **Cloud Development**: Continuously improving cloud-native applications with **Azure Functions** and **DevOps pipelines**.
 
 ## 💡 Fun Fact:
-Before I worked officially in IT, I built smaller projects to fund my tools and development needs. This entrepreneurial spirit still fuels my passion for learning and creating today.
+Before I worked officially in IT/AI space, I built smaller projects to fund my tools and development needs. This entrepreneurial spirit still fuels my passion for learning and creating today.
 
 ## 🤝 Let’s Connect:
 [![Discord Server](https://dcbadge.vercel.app/api/server/ZaSFwBfhvG)](https://discord.gg/ZaSFwBfhvG)
