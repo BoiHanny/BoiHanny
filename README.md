@@ -2,7 +2,7 @@
 
 # Hey there! I'm Hanny 👋
 
-I’m a passionate software developer with **7 years of experience** officially working in IT. Before that, I spent time working on smaller projects to fund my journey into the world of development, and now I specialize in building cutting-edge tools with technologies like **C#**, **.NET**, and **Azure**.
+I’m a passionate technology strategist/solutions architect with **7 years of experience** officially working in IT. Before that, I spent time working on smaller projects to fund my journey into the world of development, and now I specialize in building cutting-edge tools with technologies like **C#**, **.NET**, and **Azure**.
 
 ## ⚡ My Tech Stack & Skills:
 
@@ -27,19 +27,21 @@ A powerful, dynamic chatbox tool for **VRChat**, blending **AI** and **3D interf
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://blender.org)
 
 ## 🌟 Experience:
-- **Project Management**: Leading cross-functional teams to deliver software and web applications with a focus on **Azure DevOps**.
+- **Project & Product Management**: Leading projects with a focus on delivering impactful solutions through Azure DevOps and ensuring alignment with business goals.
 - **Machine Learning & Data**: Integrating machine learning models and conducting data analysis for insights that guide better decision-making.
-- **DevOps Engineering**: Building and automating CI/CD pipelines, cloud deployment strategies, and managing cloud infrastructure with **Azure**.
-- **Graphical User Interface**: Designing and implementing user-friendly interfaces using **WPF**, **Blazor**, and **.NET MAUI**.
+- **DevOps & IT Administration**: Managing cloud infrastructure with Azure, and ensuring scalable, reliable deployments across cloud and on-premise environments for me, the key is in automation!!
+- **Information Security** (ISO/IEC 27001): Ensuring compliance with industry standards, managing security risks, and implementing security policies and controls to protect data and systems.
+- **Graphical User Interface**: Designing, discussing and implementing user-friendly interfaces using **WPF**, **Blazor**, and **.NET MAUI** or any platform.
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoiHanny&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🚀 Current Focus:
-- **AI & VR**: Experimenting with **AI-driven avatars** and enhancing **VRChat experiences** using **Unity** and **Blender**.
-- **Cloud Development**: Continuously improving cloud-native applications with **Azure Functions** and **DevOps pipelines**.
+I'm currently investing much of my time in **business strategies** and **personal growth**, reading knowledge-filled **books** to grow in the business space. I’m gaining deep knowledge in AI, coding, the human mind, and psychology, which help shape both my personal and professional development.
+
+In my free time, I continue to work on the **MagicChatbox** project, while also doing smaller **Unity** and **Blender** projects whenever I have some extra time.
 
 ## 💡 Fun Fact:
-Before I worked officially in IT/AI space, I built smaller projects to fund my tools and development needs. This entrepreneurial spirit still fuels my passion for learning and creating today.
+Before I officially entered the IT and AI space, I built smaller projects to fund my tools and learning. This entrepreneurial mindset still drives me, pushing me to constantly learn, innovate, and create.
 
 ## 🤝 Let’s Connect:
 [![Discord Server](https://dcbadge.vercel.app/api/server/ZaSFwBfhvG)](https://discord.gg/ZaSFwBfhvG)
