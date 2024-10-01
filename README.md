@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/114599052/214605234-24aa8985-2b2d-404b-b640-193570f1d876.png)
+![image](https://github.com/user-attachments/assets/4142f4ee-6341-4f65-849c-9c7d0e9ddb7c)
 
 # Hey there! I'm Hanny 👋
 
