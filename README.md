@@ -8,8 +8,8 @@ I’m a passionate software developer with **7 years of experience** officially 
 
 - **Languages**: C#, C++, Python, Powershell, HTML/XAML and some other smaller languages.
 - **Frameworks**: .NET (MAUI, WPF, Blazor)
-- **Platforms**: Azure, Unity, VRChat, Windows, Linux
-- **Domains**: Machine Learning, Data Analysis, Project Management, IT Administration, DevOps
+- **Platforms**: Azure, Unity, VRChat, Windows, Linux, Android
+- **Domains**: Machine Learning, Data Analysis, Project Management, Product Management, IT Administration, DevOps, Software Development, Information Security (ISO 27001)
 
 I also dabble with **AI** and **custom models** during both work and free time, leveraging tools like **Azure Machine Learning** and **Unity** to bring advanced features into projects.
 
