@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/user-attachments/assets/4142f4ee-6341-4f65-849c-9c7d0e9ddb7c)
 
-I’m a passionate technology strategist and solutions architect with **7+ years of experience** in IT. I started by taking on smaller projects to fund my journey into development and have since evolved into building innovative solutions using **C#**, **.NET**, **Azure**, and a variety of modern frameworks and services.
+I’m a passionate **technology strategist and solutions architect** with **7+ years of experience** in IT. I started by taking on smaller projects to fund my journey into development and have since evolved into building solutions using **C#**, **.NET**, **Azure**, and a variety of modern frameworks and services.
 
 ---
 
