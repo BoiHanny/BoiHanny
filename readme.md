@@ -4,7 +4,7 @@
   <img src="./assets/hanny-banner-dark.svg" alt="Hanny — technology, architecture, software" width="1280">
 </picture>
 
-I’m a **technology strategist and solutions architect** with a background in hands-on software development, product management, and IT. I work on enterprise applications, workflow automation, and custom AI systems.
+I’m a **technology strategist and solutions architect** with a background in hands-on software development, product management, and IT. I work on enterprise applications, workflow automation, and custom AI systems for around **7 years**.
 
 I like getting to the heart of a problem, choosing the right tools, and taking an idea through to a working product. That means thinking about the architecture, the data, and the person who has to use it.
 
@@ -95,15 +95,6 @@ I use that to push the things I care about further: thoughtful architecture, sec
 - **Product & experience** · Product strategy, solution design, project delivery, and interfaces that make complex processes easier for people to use.
 - **Cloud & operations** · Azure, DevOps, Microsoft 365, on-premises and cloud IT, and secure data handling.
 
-<details>
-<summary><b>My wider toolkit</b></summary>
-
-- **Languages:** C#, C++, Python, TypeScript, JavaScript, PowerShell, HTML, CSS, XAML
-- **Frameworks:** .NET, WPF, MAUI, Blazor, Angular, React
-- **Platforms & tools:** Azure, Azure DevOps, Windows, Linux, Android, Unity, Blender, VRChat
-
-</details>
-
 ## In my free time
 
 I’m exploring interactive AI, Unity, and Blender, and continuing to develop **[MagicChatbox](https://github.com/BoiHanny/vrcosc-magicchatbox)**, my VRChat chatbox project. It brings together music, lyrics, status, and other optional integrations in a customisable chatbox.
@@ -113,4 +104,3 @@ I’m exploring interactive AI, Unity, and Blender, and continuing to develop **
 ## Let’s connect
 
 <a href="https://discord.gg/ZaSFwBfhvG"><img src="./assets/link-discord.svg" alt="Discord community" height="34"></a>
-<a href="https://github.com/BoiHanny?tab=followers"><img src="./assets/link-github.svg" alt="Find me on GitHub" height="34"></a>
